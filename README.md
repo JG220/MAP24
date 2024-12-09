@@ -1,4 +1,10 @@
 # MAP24
+#Final Project Links
+
+Colab final project Alexnet: https://tinyurl.com/ColabFinalproject
+Pitch deck: https://tinyurl.com/ImpactEyePitchdeck
+Website: https://tinyurl.com/ImpactEye
+Video: https://youtu.be/eLAR19ovXkQ?si=tgl-y92sGsMl3Cef
 Notes for class
 
 [My website](https://jg220.github.io/MAP24/)
