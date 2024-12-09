@@ -9,7 +9,7 @@ Website: https://tinyurl.com/ImpactEye
 
 Video: https://youtu.be/eLAR19ovXkQ?si=tgl-y92sGsMl3Cef
 
-Notes for class
+# For class
 
 [My website](https://jg220.github.io/MAP24/)
 
