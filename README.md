@@ -1,5 +1,5 @@
 # MAP24
-#Final Project Links
+# Final Project Links
 
 Colab final project Alexnet: https://tinyurl.com/ColabFinalproject
 
